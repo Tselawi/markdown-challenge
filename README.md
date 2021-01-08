@@ -2,7 +2,9 @@
 
 # Tariq Sealawi #
 *Wish You all Have a Good Life!*
-![](/Users/tariq/Desktop/Becode/markdown-challenge/TA.jepg)
+
+![](https://i.imgur.com/3fAd0w8.gif?1)
+
 ### Work-hard ###
 
 | BirthDay: | Favorite Color:| Favorite Food:| Pinnapple on pizza:| 
