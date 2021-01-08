@@ -21,6 +21,6 @@
 ###### I had a twin brother! In school, We looked alike! so, We changed our turn in class and mostly nobody catches us. it was very funny!
 ###### To have twin brother that's something quite cool!
 
-[Previous](http://www.google.com)
-[Tariq Selawi](https://github.com/Tselawi/markdown-challenge.git)
+[Previous](http://www.google.com) ||
+[Tariq Selawi](https://github.com/Tselawi/markdown-challenge.git) || 
 [Next](http://www.google.com)
