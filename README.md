@@ -22,5 +22,5 @@
 ###### To have twin brother that's something quite cool!
 
 [Previous](http://www.google.com)
-[Tariq Selawi](https://github.com/Tselawi/markdown-challenge.git){: .btn}
-[Next](http://www.google.com){: .btn}
+[Tariq Selawi](https://github.com/Tselawi/markdown-challenge.git)
+[Next](http://www.google.com)
